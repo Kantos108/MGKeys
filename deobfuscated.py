@@ -1,4 +1,4 @@
-keys = {
+keys = {    "2zyzecwSf2ZYRpB3tuQhOQ": "DeviceSupportsWirelessSplitting",
     "/6FWCRjN1yRdUABG9vF8ow": "WiFiCallingCapability",
     "/9luHerXthRoPoNt/PVkTg": "VibratorCapability",
     "/bfa1LxXd7G1WqHujpjsdA": "WatchSupportsMusicStreaming",
